@@ -3,6 +3,8 @@ Welcome to TicTacToe! This is a command line interface implementation of the pop
 
 Here is the guide for which index number corresponds to which spot on the game board:
 
+![image](https://github.com/sdesai13/TicTacToe/blob/main/TicTacToe%20image.png)
 
 
 The game will give an error if you attempt to place your symbol on an occupied spot, or if you input a non numeric input. You will need to ensure that you have IPython downloaded in your local environment as it is a dependency. Feel free to message me if you have any questions about the code or how to run the game!
+
